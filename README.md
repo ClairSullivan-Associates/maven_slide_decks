@@ -2,4 +2,6 @@
 
 As I develop learning content on Maven, I will host the slide decks for my Lightning Lessons here.  Enjoy!
 
+[November 13, 2025 Lightning Lesson: "Make Your Tech Career Layoff-Proof as a Solopreneur"](LL_2025_11_13_solopreneur_intro.pdf)
+
 And, as ever, if you have any questions, please drop me an email at clair@clairsullivan.com.
