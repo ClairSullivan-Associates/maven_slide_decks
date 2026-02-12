@@ -6,6 +6,8 @@
 
 ## Maven Lightning Lessons
 
+- [February 12, 2026 Lighting Lesson: "AI for Non-Techies: 3 Ways to Become More Productive with AI"](LL_2026_02_12_3_ways.pdf)
+
 - [December 18, 2025 Lightning Lesson: "Solopreneur Money Math: Calculate Your Freedom Number"](LL_2025_12_18_freedom_number.pdf)
 
 - [December 1, 2025 Lightning Lesson: "Make Your Tech Career Layoff-Proof as a Solopreneur"](LL_2025_12_01_solopreneur_intro.pdf)
