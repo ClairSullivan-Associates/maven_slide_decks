@@ -2,7 +2,9 @@
 
 ## My Upcoming Maven Cohorts
 
-["Launch Your Solopreneur Business for Senior ICs and Managers in Tech"](https://maven.com/clair-sullivan-associates/launch-your-solopreneur-business): First cohort January 5-18, 2026
+- ["AI for Busy Professionals: No Experience, No Coding, Just Efficiency"](https://maven.com/clair-sullivan-associates/workplace-ai-for-busy-professionals): Inaugural cohort: March 14, 2026
+
+- ["Launch Your Solopreneur Business for Senior ICs and Managers in Tech"](https://maven.com/clair-sullivan-associates/launch-your-solopreneur-business): Current cohort: February 9-22, 2026
 
 ## Maven Lightning Lessons
 
